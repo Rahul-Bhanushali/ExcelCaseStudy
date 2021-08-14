@@ -28,5 +28,4 @@ it resembles the one shown below.
 ● Plot a graph to compare the sales of 2012 and 2013. Also show the growth on same page.
 
 Dataset used: Google Drive links have been shared below:
-https://drive.google.com/drive/folders/1VrH6EhC7c_KTZuTJcsp900X3l2h1mZiV?usp=s
-haring
+https://drive.google.com/drive/folders/1VrH6EhC7c_KTZuTJcsp900X3l2h1mZiV?usp=sharing
